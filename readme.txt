@@ -21,3 +21,28 @@ I worked on building and organizing the frontend structure of the website, focus
 - CSS
 - JavaScript
 - PHP
+
+## Project Structure
+```bash
+css/                     # Stylesheets
+images/                  # Image assets
+img/                     # Additional media assets
+js/                      # JavaScript files
+plugins/chocolat/images/ # Plugin-related assets
+
+about.html
+blog.html
+contact.html
+contact.php
+cntct.php
+faqs.html
+index.html
+lafire.html
+portfolio.html
+portfolio-details.html
+portfolio-masonary.html
+reviews.html
+service-details.html
+services.html
+single-post.html
+styles.css
